@@ -14,6 +14,6 @@
 | ADS1118 |Thermocouple K-Type|SPI|  –200°C to +1250°C  |16bit; 0.03125°C|111,52 €| 2v~7v |[Library](https://github.com/jonathanimb/ADS1118)|[Datasheet](https://www.ti.com/lit/ds/symlink/ads1118.pdf)| Ultrasmall, low power consumption |
 |MCP9600|Thermocouple|I²C|Depends on the type|0.0625°C|5,97€|2.7v~5.5v|[Library](https://github.com/pimoroni/mcp9600-python)|[Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP960X-Data-Sheet-20005426.pdf)|  |
 |MAX31850K| Thermocouple | 1-Wire|Depends on the type |14bit;0.25°C|21,79€ |3.3V |[Library](https://github.com/Seeed-Studio/Seeed_MAX31850K)|[Datasheet](https://cdn-shop.adafruit.com/datasheets/MAX31850-MAX31851.pdf)|  |
-|  |  |   |    |  |    |  |  |    |  |
-|  |  |   |    |  |    |  |  |    |  |
+|AD8495|Thermocouple K-type| Analog  |−25°C to +400°C|  | 13,28 € |3.3V and 5V|[Library](https://github.com/adafruit/Adafruit-AD8495-Breakout-PCB)|[Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ad8494_8495_8496_8497.pdf)    | [Accessories](https://www.adafruit.com/product/270)|
+|DS18B20|  |   |    |  |    |  |[Library](https://github.com/victorjonsson/raspberry-pi-temp-sensors)|    |  |
 
