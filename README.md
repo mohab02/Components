@@ -39,9 +39,9 @@
 |SCD30 Sensor module| NDIR|UART or I²C |400 ppm – 10.000 ppm | 30ppm| 46.29 €| 3.3V – 5.5V|[Library](https://pypi.org/project/scd30-i2c/)|[Datasheet](https://www.mouser.com/datasheet/2/813/Sensirion_CO2_Sensors_SCD30_Preliminary-Datasheet-1516638.pdf) |Co2, Temperature and Humidity are included. Operating range for co2 sensor : 0 – 50°C|
 | Senseair S8 LP |NDIR |UART |400–2000ppm |40ppm |36.00 €|5V |[Library](http://co2meters.com/Documentation/AppNotes/AN168-S8-raspberry-pi-uart.pdf) |[Datasheet](https://rmtplusstoragesenseair.blob.core.windows.net/docs/Dev/publicerat/PSH1944.pdf) [Datasheet2](http://www.co2meters.com/Documentation/Datasheets/DS-S8-3.2.pdf) |[Accessories](https://senseair.com/products/accessories/sadk-senseair-development-kit/)|
 |MH-Z19C |NDIR |UART,PWM |400~5000ppm | 50ppm | 23.4€ | 5V|[Library](https://pypi.org/project/mh-z19/)| [Datasheet](https://pdf1.alldatasheet.net/datasheet-pdf/view/1303687/WINSEN/MH-Z19C.html) | |
-|SGP30|metal-oxide gas|I²C |400 ppm to 60000 ppm |from 1 ppm to 31 ppm| |21.47€ |3v-5v |[Library](https://pypi.org/project/sgp30/) |[Datasheet](https://cdn.shopify.com/s/files/1/0176/3274/files/Sensirion_Gas_Sensors_SGP30_Datasheet_EN-1148053.pdf?v=1603894740)| eco₂ sensor. Operating range: -40 to +85°C|
-|CCS811| | | | | | | | | | |
-| | | | | | | | | | | |
+|SGP30|metal-oxide gas|I²C |400 ppm to 60000 ppm |from 1 ppm to 31 ppm|21.47€ |3v-5v |[Library](https://pypi.org/project/sgp30/) |[Datasheet](https://cdn.shopify.com/s/files/1/0176/3274/files/Sensirion_Gas_Sensors_SGP30_Datasheet_EN-1148053.pdf?v=1603894740)| eco₂ sensor. Operating range: -40 to +85°C|
+|CCS811|metal-oxide gas |I²C|400ppm up to 32768ppm | | 14,55 €| 3-5v| [Library](https://github.com/paulvha/ccs811)|[Datasheet](https://www.sciosense.com/wp-content/uploads/documents/SC-001232-DS-2-CCS811B-Datasheet-Revision-2.pdf) | |
+| | | | | | | | | | | 
 
 
 
