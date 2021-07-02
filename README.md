@@ -19,6 +19,13 @@
 |MAX31865|RTD | SPI | -200°C to +800°C | 0.03125°C  |4.32 €| 3.3v |[Library](https://circuitpython.readthedocs.io/projects/max31865/en/latest/) |[Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf)|[Accessories](https://www.adafruit.com/product/3290)|
 |MAX31875|IC | I²C & SMBus | -40°C to +145°C | up to 0.0625°C| 7.56€| 3.3V |[Library]()  |[Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX31875.pdf)| |
 
+##Humidity+ temperature
+| Sensor        | Sensor type   | Interface  | Range     | Resolution | Price    | Supply Voltage Range   | Library | Datasheet | Notes |
+| :-----------: | :----------:  | :-------:  | :-------: | :--------: | :------: | :-------------------:  | :--------------: | :-----------:|:-----------:|
+| AHT20||I²C|Temp: -40°C to 85°C, Humidity: 0~100%|Humidity: 0.024%, Temp: 0.01°C|5,34 €|3.3V or 5V|[Library](https://github.com/adafruit/Adafruit_CircuitPython_AHTx0)|[Datasheet](https://files.seeedstudio.com/wiki/Grove-AHT20_I2C_Industrial_Grade_Temperature_and_Humidity_Sensor/AHT20-datasheet-2020-4-16.pdf)|
+| HTU21D-F | |I²C | Temp: -30~90°C, Humidity: 5% to 95% RH| 8-12 bits|16,45 €|3.3V|[Library](https://github.com/bbx10/htu21dflib)|[Datasheet](https://cdn-shop.adafruit.com/datasheets/1899_HTU21D.pdf) | |
+|DHT22 | |1-Wire |humidity 0-100%RH; temperature -40~80Celsius|humidity 0.1%RH; temperature 0.1°C | 6.56€ |3.3-6V | [Library](https://github.com/adafruit/Adafruit_Python_DHT)| [Datasheet](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf)|   
+
 ## Infrared camera
 | Sensor        | Sensor type   | Interface  | Range     | Resolution | Price       | Library | Datasheet | Notes |
 | :-----------: | :----------:  | :-------:  | :-------: | :--------: | :------:  | :--------------: | :-----------:|:-----------:|
